@@ -56,7 +56,7 @@ To use the Customizable Countdown Timer locally:
 
 ## Screenshots
 
-![Customizable Countdown Timer](shot2.png)
+![Customizable Countdown Timer](shot2.jpg)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
